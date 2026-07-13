@@ -3,7 +3,6 @@
 > A lightweight Git-inspired version control system built in **C++17** for learning the core concepts of version control.
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 MiniGit Lightweight is a simplified implementation of a Git-like version control system. It demonstrates how repositories, commits, object storage, and checkout operations work internally while intentionally keeping the command set minimal and easy to understand.
 
