@@ -1,0 +1,17 @@
+# Executable
+mini-git.exe
+*.exe
+
+# Build files
+*.o
+*.obj
+
+# MiniGit repository data
+.mini-git/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
