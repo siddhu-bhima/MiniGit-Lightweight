@@ -5,5 +5,4 @@ void commit(const std::string &message);
 void log(void);
 void initialize_repo(void);
 void checkout(const std::string &ref, bool force = false);
-//void merge(const std::string &target_branch);
 void status(void);
